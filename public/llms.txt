@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+720 היא סוכנות השיווק הדיגיטלי שתשנה את הדרך שבה העולם מכיר אתכם. אנחנו מתמחים בשיווק ברשתות חברתיות ובניית קמפיינים שממירים גולשים ללקוחות נאמנים. הצטרפו אלינו עכשיו!
+
+### שירותים
+https://example.com/services
+מקידום ממומן ועד ניהול רשתות חברתיות — ב-720 תמצאו את כל פתרונות השיווק הדיגיטלי תחת קורת גג אחת. שירותים מותאמים אישית שמניעים תוצאות אמיתיות ומדידות לעסק שלכם. גלו עוד היום!
+
+### אודות
+https://example.com/about
+ב-720 אנחנו לא רק סוכנות שיווק — אנחנו שותפים אסטרטגיים לצמיחה שלכם. הכירו את הצוות, הערכים והחזון שהפכו אותנו לאחת מסוכנויות ה-marketing המובילות בישראל. הגיע הזמן לדעת מי עומד מאחורי ההצלחה שלכם.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות? רוצים לדעת איך שיווק ברשתות חברתיות יכול לשנות את העסק שלכם? צוות 720 זמין עבורכם ומחכה לשמוע מכם. השאירו פרטים עכשיו ונחזור אליכם בהקדם עם פתרון מותאם אישית.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
